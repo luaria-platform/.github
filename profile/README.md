@@ -1,4 +1,9 @@
-![My GitHub Avatar](https://github.com/luaria-platform.png)
+<img
+  src="https://github.com/luaria-platform.png"
+  alt="LuAria logo"
+  width="120"
+  height="120"
+/>
 # LuAria
 LuAria is a [Terraria](https://www.terraria.org) mobile mod loader and modding platform with a unique approach to mod development. Unlike other loaders, LuAria lets you build and test your mods directly at runtime—avoiding redundant recompilation and re-packaging. It re‑invents how Terraria mods are realized by using interpreted scripting languages such as Lua.
 
