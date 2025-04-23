@@ -1,6 +1,6 @@
 ## LuAria
 
-LuAria is a [Terraria](https://www.terraria.org) mobile modloader for iOS and Android that allows you to load and create mods easily. It uses Lua as the scripting backend, giving you the flexibility to modify gameplay, add new features, and include custom textures and assets—all at runtime.
+LuAria is a [Terraria](https://www.terraria.org) mobile modding platform for iOS and Android that allows you to load and create mods easily. It uses Lua as the scripting backend, giving you the flexibility to modify gameplay, add new features, and include custom textures and assets—all at runtime.
 
 <!--
 
